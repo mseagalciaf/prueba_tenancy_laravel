@@ -1,0 +1,7 @@
+GET http://127.0.0.1:8000/
+Content-Type: application/json
+X-Tenant: f5cba07e-55d7-48a7-87c7-e78e9b2f1f71
+
+{
+    "tenant" : "f5cba07e-55d7-48a7-87c7-e78e9b2f1f71"
+}
